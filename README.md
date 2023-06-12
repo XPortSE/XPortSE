@@ -1,8 +1,8 @@
-👋 Hi there, I'm @XPortSE!
-💻 Enthusiastic about coding and dedicated to coding growth.
-🌱 Currently exploring the world of Python and C++ with a humble coding background.
-🌟 Fascinated by the versatility of microcontrollers in diverse applications.
-🤝 Open to collaborating on compelling projects involving microcontrollers and more.
+👋 Hi there, I'm @XPortSE! 
+💻 Enthusiastic about coding and dedicated to personal growth. 
+🌱 Currently exploring the world of Python and C++ with a humble coding background. 
+🌟 Fascinated by the versatility of microcontrollers in diverse applications. 
+🤝 Open to collaborating on compelling projects involving microcontrollers and more. 
 
 
 <!---
